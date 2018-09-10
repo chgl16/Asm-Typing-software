@@ -7,5 +7,5 @@
 ![1](https://github.com/chgl16/Asm-Typing-software/blob/master/image-foder/1.png)
 ![2](https://github.com/chgl16/Asm-Typing-software/raw/master/image-foder/2.png)
 ![3](https://github.com/chgl16/Asm-Typing-software/blob/master/image-foder/3.png)
-![4](http://github.com/chgl16/Asm-Typing-software/raw/master/image-foder/4.png)
+![4](https://github.com/chgl16/Asm-Typing-software/raw/master/image-foder/4.png)
 
